@@ -52,7 +52,7 @@ Which geopolitical zones should malaria programs prioritize for maximum impact w
 
 ### Dashboard Preview
 
-![Malaria Equity Dashboard](Dashboard_Images/Malaria_Dashboard.jpg)
+<img width="1248" height="832" alt="Malaria_Dashboard" src="https://github.com/user-attachments/assets/a0e6e6b1-d43a-4049-9daf-aaa7cfa3f699" />
 
 ---
 
