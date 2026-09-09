@@ -57,3 +57,36 @@ Which geopolitical zones should malaria programs prioritize for maximum impact w
 ---
 
 ### Project Structure
+Nigeria_Malaria_Equity_Analysis
+├── Dashboard_Images/
+├── Documentation/
+├── ExtractedData/
+├── PowerBI/
+└── Source/
+
+
+
+
+
+---
+
+### Recommendations
+
+1. Prioritize **North West** for intensified surveillance and complementary interventions.
+2. Investigate reasons for persistent high burden despite strong ITN coverage.
+3. Strengthen ITN utilization campaigns in South South and South West.
+4. Document and learn from higher IPTp performance in the South East.
+5. Adopt prevalence-driven prioritization when allocating limited resources.
+
+---
+
+### Author
+
+**Faisal Saleh**  
+Medical Student | Healthcare Data Analytics  
+
+---
+
+### Source
+
+Nigeria MIS 2021 (Prevalence) & NDHS 2023-24 (Intervention Coverage)
